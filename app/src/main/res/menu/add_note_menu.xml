@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/add_note" android:title="Dodaj Notatkę"></item>
+    <item android:id="@+id/password_change" android:title="Zmień Hasło"></item>
+
+</menu>
